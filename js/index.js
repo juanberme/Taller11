@@ -61,11 +61,4 @@ database.ref('users').on('value', function(data){
     })
 
 }
-
-votar = () =>{
-    let id = ID.value;
-}
-
-
-
-
+)
