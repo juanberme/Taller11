@@ -1,0 +1,83 @@
+#body{
+    margin: 0;
+    padding: 0;
+}
+
+#titulos{
+    text-align: center;
+}
+
+#inputs{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+#inputs *{
+    width: 100%;
+    margin: 10px 120px 2px 120px;
+}
+
+#registrarBtn{
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
+#registrarBtn * {
+    background-color: blue;
+    color: cornsilk;
+    margin: 10px 60px 10px 60px;
+}
+
+#tituloVote{
+    text-align: center;
+}
+
+#votaId{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+#votar{
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center; 
+}
+
+#votar * {
+    background-color: blue;
+    color: cornsilk;
+    margin: 10px 60px 10px 60px;
+}
+
+#verC{
+
+}
+
+#verC * {
+    background-color: blue;
+    color: cornsilk;
+    margin: 10px 60px 10px 60px;  
+}
+
+#verV{
+
+}
+
+#verV * {
+    background-color: blue;
+    color: cornsilk;
+    margin: 10px 60px 10px 60px;  
+}
