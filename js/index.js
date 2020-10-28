@@ -43,7 +43,7 @@ candidate = () =>{
 
 registrar.addEventListener('click', candidate);
 
-database.ref('users').on('value', function(data){
+/*database.ref('users').on('value', function(data){
     data.forEach(function(comprobar){
         let valor = comprobar.val();
         let id = valor.id;
@@ -61,4 +61,4 @@ database.ref('users').on('value', function(data){
     })
 
 }
-)
+)*/
